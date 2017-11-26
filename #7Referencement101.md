@@ -25,8 +25,14 @@ Pour wordpress, la meilleure solution semble être SEO by Yoast.
 Il suffit ensuite de suivre les consignes du premier onglet de Yoast (présent dans chaque page). Les autres onglets sont “du plus”. 
 
 
-D’autres concepts sont à creuser pour affiner le SEO comme la création d’un sitemap. 
-https://www.yakaferci.com/genere-sitemap/. C’est du plus pour le moment. 
+Yoast permet également de mettre en place un sitemaps (carte du site pour faciliter le référencement par le robot de Google)
+
+### Référencement Rapide avec Yoast 
+1) Choisir un mot clé 
+2) S'assurer que le titre SEO à la bonne longueur et contient le mot clé 
+3) S'assurer que la meta description à la bonne longueur et contient le mot clé
+4) S'assurer que les images ont bien tous un attribut alt 
+5) S'assurer que le mot clé apparait suffisament dans les textes de la page (densité)
 
 # Quelques liens : 
 Introduction vidéo (surtout épisode 2 et 3)

@@ -26,5 +26,10 @@ git stash / git stash pop : permet de stocker ses modifications sans faire de co
 
 ## RESOUDRE UN CONFLIT ?
 
-- Ouvrir le fichier en conflit et choisir la partie du code à garder
-- Effectuer un commit qui indique la résolution du conflit
+- git pull origin master 
+- git checkout maBranch
+- git rebase master
+- ouvrir le fichier en conflit et choisir la partie du code à garder
+- valider la résolution du conflit avec git add nomDuFichier
+- git rebase --continue pour passer au fichier en conflit suivant
+=> quand tout est terminé : git push -f orgin NomBranch
